@@ -17,3 +17,8 @@ This project is the first part of a series of projects that walk through working
 * Simplify, simplify, simplify
 * Save your work!
 * Make a pipeline
+
+![3](https://user-images.githubusercontent.com/63611492/197306980-327b81ed-56f1-412d-9617-ae8faf5e4d26.png)
+![2](https://user-images.githubusercontent.com/63611492/197306995-e0519639-53aa-4fe4-bae2-1525f5833005.png)
+![1](https://user-images.githubusercontent.com/63611492/197307011-94ce8fa2-0ce3-4836-99e6-e04d7a168035.png)
+![4](https://user-images.githubusercontent.com/63611492/197307051-61c372d1-75e8-46d5-b618-29ede3324d15.png)
